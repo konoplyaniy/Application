@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Звук ПК</string>
+    <string name="Mute">Тихенько</string>
+    <string name="defaultVolumeForTextView">-</string>
+    <string name="serverIp">IP</string>
+    <string name="saveBtn">Зберегти</string>
+    <string name="mainTitle">Регулятор звуку ПК</string>
+    <string name="okBtnText">ОK</string>
+    <string name="cancelBtnText">Відміна</string>
+    <string name="pupupTitleText">Час до виключення у хвилинах</string>
+</resources>
